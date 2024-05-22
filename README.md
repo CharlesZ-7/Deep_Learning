@@ -1,84 +1,6 @@
-# APMA-2070 and ENGN 2912V: Deep Learning for Scientistis and Engineers
-
-The main objective of this course is to teach concepts and implementation of deep learning techniques for scientific and engineering problems to first year graduate students. This course entails various methods, including theory and implementation of deep leaning techniques to solve a broad range of computational problems frequently encountered in solid mechanics, fluid mechanics, non destructive evaluation of materials, systems biology, chemistry, and non-linear dynamics.
 
 
-# Workload
-
-#### Over the 13 weeks of this course (including reading period), students will spend three hours in class per week (39 hours total). A reasonable estimate to support this course’s learning outcomes is 180 hours total. Project based homework assignments may take ~60 hours, and students are expected to allocate ~80 hours to the final project.
-
-
-# Why this course
-Please read through this  
-* [<span style="color:blue"> <em>Top 10 People in ML to follow in 2023 </em> </span>](https://academy.digilab.co.uk/posts/which-ml-experts-should-you-follow-in-2023)
-
-
-
-# Instructors  
-1. [Prof. George Em Karniadakis, Division of Applied Mathematics, Brown University](https://scholar.google.com/citations?user=yZ0-ywkAAAAJ&hl=en&oi=ao)
-2. [Dr. Khemraj Shukla, Division of Applied Mathematics, Brown University](https://scholar.google.com/citations?user=XMWXf8sAAAAJ&hl=en&oi=ao)
-
-# Office Hours  
-Prof. George Em Karniadakis: Wednesday: 3.00 PM - 5.30 PM  
-Room No: 304  
-Division of Applied Mathematics   
-170 Hope St   
-Providence RI 02906   
-Email: <george_karniadakis@brown.edu>  
-
-
-Dr. Khemraj Shukla: Friday: 3.00 PM - 5.30 PM  
-Room No: 308    
-Division of Applied Mathematics     
-170 Hope St  
-Providence RI 02906   
-Email: <khemraj_shukla@brown.edu>    
-
-
-
-
-
-# TAs
-Aniruddha Bora  
-Email: <aniruddha_bora@brown.edu>  
-
-Nazanin Ahmadi  
-Email: <nazanin_ahmadi_daryakenari@brown.edu>
-
-
-
-## 
-
-
-# Syllabus, Lectures and Codes 
-
-
-**Textbook and Other Reading Materials** 
-
-* [<span style="color:blue"> <em>Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville </em> </span>](https://www.deeplearningbook.org)
-
-* [<span style="color:blue"> <em>Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow by Auréliean Géron</em> </span>](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
-
-* [<span style="color:blue"> <em>Conceptual Programming with Python by Thorsten Altenkirch and Isaac Triguero</em> </span>](https://www.google.com/books/edition/Conceptual_Programming_with_Python/nUO0DwAAQBAJ?hl=en&gbpv=1&dq=conceptual+programming+with+python&printsec=frontcover)
-
-* [<span style="color:blue"> <em>A Student's Guide to Bayesian Statistics by B Lambert  </em> </span>](https://www.torrossa.com/en/resources/an/5017731)
-
-* [<span style="color:blue"> <em>Reinforcement learning: An Introduction, 2nd edition by Richard S Sutton and Andrew G Barto</em> </span>](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=6m4wv6gAAAAJ&citation_for_view=6m4wv6gAAAAJ:IWHjjKOFINEC)
-
-
-**Learning curve**
-![Learning curve](images/learning_curve.png?raw=true "Title") 
-
-
-## Office Hours
-Every Friday: 2:30 PM - 5.00 PM   
-Room No: 118  
-1st Floor, Division of Applied Mathematics   
-170 Hope St   
-Providence RI 02906   
-
-
-
+# Deep learning
 
 ## Module I: Basics 
 
@@ -112,7 +34,6 @@ Providence RI 02906
 
 
 **Lecture 7b: Distillation of Neural Networks** [Slides: (April 8, 2024)](https://www.dropbox.com/scl/fi/aunrr94qfgjbfqnks3p2b/Lecture-7b-Distillation-of-Neural_Networks.pptx?rlkey=c3hx2czgjcdh1vusoqrnkl7ep&dl=0) [Jupyter\_Notebook](Lecture_7b_Notebook/pysr.ipynb)  
-
 
 
 
